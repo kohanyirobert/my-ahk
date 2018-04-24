@@ -3,10 +3,10 @@
 #SingleInstance, Force
 
 #IfWinActive ahk_exe chrome.exe
+^d::
 {
-  ^d::
-    Send, ^j ; Open Downloads
-    Send, ^w ; Close active tab - should be Downloads at this point
+  Send, ^j ; Open Downloads
+  Send, ^w ; Close active tab - should be Downloads at this point
   Return
 }
 #IfWinActive
