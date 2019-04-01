@@ -13,6 +13,10 @@ Repository for my AutoHotkey script.
 |kbd:[Ctrl + d]
 |Chrome
 |Closes download status bar when it's opened.
+
+|kbd:[Menu + 0] `..` kbd:[Menu + 9]
+|Windows
+|Pressing the kbd:[Menu] key together with a number works as though the kbd:[Win] key were pressed.
 |===
 
 == Building
