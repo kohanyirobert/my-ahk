@@ -21,4 +21,5 @@ AppsKey & 6::#6
 AppsKey & 7::#7
 AppsKey & 8::#8
 AppsKey & 9::#9
+AppsKey & d::#!d
 AppsKey::AppsKey

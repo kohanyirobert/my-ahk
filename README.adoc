@@ -17,6 +17,10 @@ Repository for my AutoHotkey script.
 |kbd:[Menu + 0] `..` kbd:[Menu + 9]
 |Windows
 |Pressing the kbd:[Menu] key together with a number works as though the kbd:[Win] key were pressed.
+|
+|kbd:[Menu + d]
+|Windows
+|Shows/hides the Windows calendar on the tray.
 |===
 
 == Building
