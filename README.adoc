@@ -4,6 +4,8 @@
 
 Repository for my AutoHotkey script.
 
+Edit with [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/).
+
 == Hotkeys
 
 [cols="1,1,3"]
