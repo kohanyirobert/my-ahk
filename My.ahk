@@ -2,6 +2,8 @@
 #Warn
 #SingleInstance, Force
 
+AppsKeyDToggle := 0
+
 #IfWinActive ahk_exe chrome.exe
 ^d::
 {
@@ -11,15 +13,6 @@
 }
 #IfWinActive
 
-AppsKey & 0::#0
-AppsKey & 1::#1
-AppsKey & 2::#2
-AppsKey & 3::#3
-AppsKey & 4::#4
-AppsKey & 5::#5
-AppsKey & 6::#6
-AppsKey & 7::#7
-AppsKey & 8::#8
-AppsKey & 9::#9
+RAlt::RWin
 AppsKey & d::#!d
 AppsKey::AppsKey
