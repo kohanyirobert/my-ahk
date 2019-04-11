@@ -4,7 +4,7 @@
 
 Repository for my AutoHotkey script.
 
-Edit with [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/).
+Edit with http://fincs.ahk4.net/scite4ahk/[SciTE4AutoHotkey].
 
 == Hotkeys
 
