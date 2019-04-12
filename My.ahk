@@ -11,6 +11,6 @@
 }
 #IfWinActive
 
+LWin::return
+LAlt::return
 RCtrl::RWin
-AppsKey & d::#!d
-AppsKey::AppsKey
