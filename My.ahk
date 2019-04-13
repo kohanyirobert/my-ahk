@@ -11,7 +11,5 @@
 }
 #IfWinActive
 
-LWin::return
-LAlt::return
 RAlt::LAlt
 RCtrl::RWin
