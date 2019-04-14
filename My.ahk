@@ -11,5 +11,4 @@
 }
 #IfWinActive
 
-RAlt::LAlt
 RCtrl::RWin
