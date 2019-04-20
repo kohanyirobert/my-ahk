@@ -16,13 +16,21 @@ Edit with http://fincs.ahk4.net/scite4ahk/[SciTE4AutoHotkey].
 |Chrome
 |Closes download status bar when it's opened.
 
-|kbd:[Menu + 0] `..` kbd:[Menu + 9]
+|kbd:[RCtrl]
 |Windows
-|Pressing the kbd:[Menu] key together with a number works as though the kbd:[Win] key were pressed.
-|
-|kbd:[Menu + d]
+|Mapped to behave as kbd:[RWin]
+
+|kbd:[RAlt + Tab]
 |Windows
-|Shows/hides the Windows calendar on the tray.
+|Mapped to behave as pressed kbd:[Ctrl + Alt + Tab], keeping the application switcher on-screen even when the hotkey is released.
+
+|kbd:[Alt + Pause], kbd:[Alt + PrintScreen], kbd:[Alt + Delete]
+|Windows
+|Behaves as pressing _Play/Pause_, _Prev_ and _Next_ on a media keyboard.
+
+|kbd:[Ctrl + Pause], kbd:[Ctrl + PrintScreen]
+|Windows
+|Resumes, suspends pre-defined processes (e.g. Slack and Discord).
 |===
 
 == Building
