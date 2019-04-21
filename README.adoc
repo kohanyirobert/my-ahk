@@ -27,10 +27,6 @@ Edit with http://fincs.ahk4.net/scite4ahk/[SciTE4AutoHotkey].
 |kbd:[Alt + Pause], kbd:[Alt + PrintScreen], kbd:[Alt + Delete]
 |Windows
 |Behaves as pressing _Play/Pause_, _Prev_ and _Next_ on a media keyboard.
-
-|kbd:[Ctrl + Pause], kbd:[Ctrl + PrintScreen]
-|Windows
-|Resumes, suspends pre-defined processes (e.g. Slack and Discord).
 |===
 
 == Building
